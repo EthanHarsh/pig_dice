@@ -1,6 +1,6 @@
 # pig_dice
 
----GAME RULES---
+GAME RULES
 - First click "Game Settings" and input a winning score
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as they wish. Each result gets added to their ROUND score
