@@ -8,4 +8,4 @@ GAME RULES
 - BUT, if the player rolls a 1, all of their ROUND score is lost. Then, it's the next player's turn
 - The first player to reach the winning score wins the game
 
-Created for "The Complete JavaScript Course" by Jonas Schmedtmann
+Created for "The Complete JavaScript Course" by Jonas Schmedtmann on Udemy.com
